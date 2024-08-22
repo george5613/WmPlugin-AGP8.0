@@ -1,4 +1,4 @@
-## 修改[WmPlugin](https://github.com/meituan/WMRouter/tree/master/WmPlugin "WmPlugin")适配到Gradle 8.0
+## 修改[WmPlugin](https://github.com/meituan/WMRouter/tree/master/WmPlugin "WmPlugin")适配到[AGP 8.0](https://developer.android.com/build/releases/gradle-plugin-api-updates?hl=zh-cn)
 
 ## To Run
 
